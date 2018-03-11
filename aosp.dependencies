@@ -1,6 +1,38 @@
 [
+ {
+    "remote":      "github",
+    "repository":  "theimpulson/android_device_asus_msm8916-common",
+    "target_path": "device/asus/msm8916-common",
+    "branch":      "8.1.x"
+ },
+ {
+    "remote":      "github",
+    "repository":  "Fire-Kernel/kernel_asus_msm8916",
+    "target_path": "kernel/asus/msm8916",
+    "branch":      "8.1.x-re"
+ },
+ {
+    "remote":      "github",
+    "repository":  "theimpulson/proprietary_vendor_asus",
+    "target_path": "vendor/asus",
+    "branch":      "8.1.x"
+ },
   {
-    "repository": "android_device_asus_msm8916-common",
-    "target_path": "device/asus/msm8916-common"
+    "remote":      "github",
+    "repository":  "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "branch":      "lineage-15.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch":      "lineage-15.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "branch":      "lineage-15.1"
   }
 ]
