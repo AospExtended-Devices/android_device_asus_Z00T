@@ -7,9 +7,9 @@
  },
  {
     "remote":      "github",
-    "repository":  "zf2-laser-dev/android_kernel_asus_msm8916",
+    "repository":  "theimpulson/android_kernel_asus_msm8916",
     "target_path": "kernel/asus/msm8916",
-    "branch":      "lineage-15.1"
+    "branch":      "firekernel-o"
  },
  {
     "remote":      "github",
