@@ -9,7 +9,7 @@
     "remote":      "github",
     "repository":  "theimpulson/android_kernel_asus_msm8916",
     "target_path": "kernel/asus/msm8916",
-    "branch":      "firekernel-o"
+    "branch":      "lineage-15.1"
  },
  {
     "remote":      "github",
@@ -17,4 +17,22 @@
     "target_path": "vendor/asus",
     "branch":      "lineage-15.1"
  }
+ {
+    "remote":      "github",
+    "repository":  "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "branch":      "cm-14.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch":      "lineage-15.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "branch":      "lineage-15.0"
+  }
 ]
