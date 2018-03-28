@@ -16,7 +16,7 @@
     "repository":  "zf2-laser-dev/proprietary_vendor_asus",
     "target_path": "vendor/asus",
     "branch":      "lineage-15.1"
- }
+ },
  {
     "remote":      "github",
     "repository":  "LineageOS/android_external_bson",
