@@ -1,2 +1,9 @@
+#
+# system.prop for Z00T
+#
+
 # Display
 ro.sf.lcd_density=480
+
+# Camera
+persist.camera.HAL3.enabled=1
